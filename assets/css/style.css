@@ -582,6 +582,7 @@ section {
   color: #ffb727;
   margin-bottom: 10px;
 }
+
 .resume .resume-item h5 {
   font-size: 16px;
   background: #eef0f2;
@@ -1000,6 +1001,22 @@ section {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+}
+#hero .social-links-hero {
+  margin-top: 30px;
+}
+
+#hero .social-links-hero a {
+  font-size: 24px;
+  display: inline-block;
+  color: #80ffd4;
+  line-height: 1;
+  margin-right: 20px;
+  transition: 0.3s;
+}
+
+#hero .social-links-hero a:hover {
+  color: #0563bb;
 }
 .contact .social-links {
   margin-top: 15px;
